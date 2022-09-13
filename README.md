@@ -81,3 +81,15 @@ Built a landing page inspired from <a href="https://cdn.statically.io/gh/TheOdin
 Languages - HTML, CSS.
 <br>
 Frameworks and libraries - none.
+
+# Fonts
+
+An accumulation of all the usefull fonts for my development.
+
+[Website](https://shubha360.github.io/all-fonts/)
+<br>
+[Repository](https://github.com/shubha360/all-fonts)
+
+Languages - HTML, CSS.
+<br>
+Frameworks and libraries - none.
