@@ -2,9 +2,9 @@
 
 This is my first website. It is the first project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">freeCodeCamp Responsive Web Design</a> certification test.
 
-[Website](https://github.com/shubha360/freeCodeCamp-survey-form)
+[Website](https://shubha360.github.io/freeCodeCamp-survey-form/)
 <br>
-[Repository](https://shubha360.github.io/freeCodeCamp-survey-form/)
+[Repository](https://github.com/shubha360/freeCodeCamp-survey-form)
 
 Languages - HTML, CSS.
 <br>
