@@ -24,13 +24,13 @@ Frameworks and libraries - none.
 
 # Technical Documentation - freeCodeCamp
 
-Third project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">freeCodeCamp Responsive Web Design</a> certification test.
+Third project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">freeCodeCamp Responsive Web Design</a> certification test. I have added a hamburger menu to this recently.
 
 [Website](https://shubha360.github.io/freeCodeCamp-technical-doc/)
 <br>
 [Repository](https://github.com/shubha360/freeCodeCamp-technical-doc)
 
-Languages - HTML, CSS.
+Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
 
@@ -91,5 +91,17 @@ An accumulation of all the usefull fonts for my development.
 [Repository](https://github.com/shubha360/all-fonts)
 
 Languages - HTML, CSS.
+<br>
+Frameworks and libraries - none.
+
+# Rock Paper Scissors
+
+Developed the rock paper scisoors game. I got the inspiration from The Odin Project.
+
+[Website](https://shubha360.github.io/rock-paper-scissors/)
+<br>
+[Repository](https://github.com/shubha360/rock-paper-scissors)
+
+Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
