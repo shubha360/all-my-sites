@@ -105,3 +105,15 @@ Developed the rock paper scisoors game. I got the inspiration from The Odin Proj
 Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
+
+# A Sketchpad
+
+Another website inspired from The Odin Project.
+
+[Website](https://shubha360.github.io/a_sketchpad/)
+<br>
+[Repository](https://github.com/shubha360/a_sketchpad)
+
+Languages - HTML, CSS, JavaScript.
+<br>
+Frameworks and libraries - none.
