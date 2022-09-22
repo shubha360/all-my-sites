@@ -108,11 +108,23 @@ Frameworks and libraries - none.
 
 # A Sketchpad
 
-Another website inspired from The Odin Project.
+A sketchpad website. Idea from The Odin Project.
 
 [Website](https://shubha360.github.io/a_sketchpad/)
 <br>
 [Repository](https://github.com/shubha360/a_sketchpad)
+
+Languages - HTML, CSS, JavaScript.
+<br>
+Frameworks and libraries - none.
+
+# Calculator
+
+A calculator inspired from The Odin Project. This is the best work of mine till now.
+
+[Website](https://shubha360.github.io/web-calculator/)
+<br>
+[Repository](https://github.com/shubha360/web-calculator)
 
 Languages - HTML, CSS, JavaScript.
 <br>
