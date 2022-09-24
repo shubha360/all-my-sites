@@ -129,3 +129,15 @@ A calculator inspired from The Odin Project. This is the best work of mine till 
 Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
+
+# Sign Up Page
+
+A sign up page with vatious form validation procedures. Idea from The Odin Project.
+
+[Website](https://shubha360.github.io/signupForm-web/)
+<br>
+[Repository](https://github.com/shubha360/signupForm-web)
+
+Languages - HTML, CSS, JavaScript.
+<br>
+Frameworks and libraries - none.
