@@ -70,11 +70,11 @@ Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
 
-# Landing Page Design
+# Landing Page Design - TOP
 
 Built a landing page inspired from <a href="https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png">this odin project template</a>.
 
-[Website](https://shubha360.github.io/odin-landing-page/)
+[Website](https://shubha360.github.io/landing_page-top/)
 <br>
 [Repository](https://github.com/shubha360/odin-landing-page)
 
@@ -94,11 +94,11 @@ Languages - HTML, CSS.
 <br>
 Frameworks and libraries - none.
 
-# Rock Paper Scissors
+# Rock Paper Scissors - TOP
 
 Developed the rock paper scisoors game. I got the inspiration from The Odin Project.
 
-[Website](https://shubha360.github.io/rock-paper-scissors/)
+[Website](https://shubha360.github.io/rock_paper_scissors-top/)
 <br>
 [Repository](https://github.com/shubha360/rock-paper-scissors)
 
@@ -106,11 +106,11 @@ Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
 
-# A Sketchpad
+# A Sketchpad - TOP
 
 A sketchpad website. Idea from The Odin Project.
 
-[Website](https://shubha360.github.io/a_sketchpad/)
+[Website](https://shubha360.github.io/a_sketchpad-top/)
 <br>
 [Repository](https://github.com/shubha360/a_sketchpad)
 
@@ -118,11 +118,11 @@ Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
 
-# Calculator
+# Calculator - TOP
 
 A calculator inspired from The Odin Project. This is the best work of mine till now.
 
-[Website](https://shubha360.github.io/web-calculator/)
+[Website](https://shubha360.github.io/web_calculator-top/)
 <br>
 [Repository](https://github.com/shubha360/web-calculator)
 
@@ -130,11 +130,11 @@ Languages - HTML, CSS, JavaScript.
 <br>
 Frameworks and libraries - none.
 
-# Sign Up Page
+# Sign Up Page - TOP
 
 A sign up page with vatious form validation procedures. Idea from The Odin Project.
 
-[Website](https://shubha360.github.io/signupForm-web/)
+[Website](https://shubha360.github.io/signup_form-top/)
 <br>
 [Repository](https://github.com/shubha360/signupForm-web)
 
