@@ -132,7 +132,19 @@ Frameworks and libraries - none.
 
 # Sign Up Page - TOP
 
-A sign up page with vatious form validation procedures. Idea from The Odin Project.
+A sign up page with various form validation procedures. Idea from The Odin Project.
+
+[Website](https://shubha360.github.io/signup_form-top/)
+<br>
+[Repository](https://github.com/shubha360/signupForm-web)
+
+Languages - HTML, CSS, JavaScript.
+<br>
+Frameworks and libraries - none.
+
+# Admin Dashboard - TOP
+
+An admin dashboard. Idea from The Odin Project.
 
 [Website](https://shubha360.github.io/signup_form-top/)
 <br>
