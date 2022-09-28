@@ -146,9 +146,9 @@ Frameworks and libraries - none.
 
 An admin dashboard. Idea from The Odin Project.
 
-[Website](https://shubha360.github.io/signup_form-top/)
+[Website](https://shubha360.github.io/admin_dashboard-top/)
 <br>
-[Repository](https://github.com/shubha360/signupForm-web)
+[Repository](https://github.com/shubha360/admin_dashboard-top)
 
 Languages - HTML, CSS, JavaScript.
 <br>
