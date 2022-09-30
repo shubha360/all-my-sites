@@ -8,7 +8,7 @@ This is my first website. It is the first project of <a href="https://www.freeco
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Tribute Page - freeCodeCamp
 
@@ -20,7 +20,7 @@ Second project of <a href="https://www.freecodecamp.org/learn/2022/responsive-we
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Technical Documentation - freeCodeCamp
 
@@ -32,7 +32,7 @@ Third project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Product Landing Page - freeCodeCamp
 
@@ -44,7 +44,7 @@ Forth project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Personal Portfolio - freeCodeCamp
 
@@ -56,7 +56,7 @@ Fifth project of <a href="https://www.freecodecamp.org/learn/2022/responsive-web
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # freeCodeCamp Sign In Page Clone
 
@@ -68,7 +68,7 @@ Tried to recreate the sign in page of freeCodeCamp.
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Landing Page Design - TOP
 
@@ -80,7 +80,7 @@ Built a landing page inspired from <a href="https://cdn.statically.io/gh/TheOdin
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Fonts
 
@@ -92,7 +92,7 @@ An accumulation of all the usefull fonts for my development.
 
 Languages - HTML, CSS.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Rock Paper Scissors - TOP
 
@@ -104,7 +104,7 @@ Developed the rock paper scisoors game. I got the inspiration from The Odin Proj
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # A Sketchpad - TOP
 
@@ -116,7 +116,7 @@ A sketchpad website. Idea from The Odin Project.
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Calculator - TOP
 
@@ -128,7 +128,7 @@ A calculator inspired from The Odin Project. This is the best work of mine till 
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Sign Up Page - TOP
 
@@ -140,7 +140,7 @@ A sign up page with various form validation procedures. Idea from The Odin Proje
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Admin Dashboard - TOP
 
@@ -152,7 +152,7 @@ An admin dashboard. Idea from The Odin Project.
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
 
 # Book Library - TOP
 
@@ -164,4 +164,4 @@ A simple book library website. Idea from The Odin Project.
 
 Languages - HTML, CSS, JavaScript.
 <br>
-Frameworks and libraries - none.
+Prepocessors, libraries and frameworks - none.
