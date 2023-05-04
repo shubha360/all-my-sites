@@ -165,3 +165,17 @@ A simple book library website. Idea from The Odin Project.
 Languages - HTML, CSS, JavaScript.
 <br>
 Prepocessors, libraries and frameworks - none.
+
+# Tic Tac Toe
+
+A very simple and minimalistic Tic Tac Toe game. Can be played against either computer or friend.
+
+The computer AI is made unbeatable using the Minimax algorithm.
+
+[Website](https://shubha360.github.io/tic-tac-toe-web/)
+<br>
+[Repository](https://github.com/shubha360/tic-tac-toe-web)
+
+Languages - HTML, CSS, JavaScript.
+<br>
+Prepocessors, libraries and frameworks - none.
